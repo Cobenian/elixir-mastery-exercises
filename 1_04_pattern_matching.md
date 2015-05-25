@@ -11,7 +11,9 @@ characters = [
 ]
 ```
 
-# Note that there is more than one correct answer for all of these!
+>
+> Note that there is more than one correct answer for all of these!
+>
 
 # Question 1
 
@@ -21,7 +23,9 @@ characters = [
 
 * In one line of code, set a variable called 'weight' to how much Han weighs
 
+> 
 > Advanced (we haven't covered all of this yet, you'll likely need to read documentation)
+>
 
 # Question 3
 
