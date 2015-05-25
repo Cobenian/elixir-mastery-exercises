@@ -23,20 +23,21 @@ characters = [
   %{name: "Luke",       type: :human,   rebel: true,    weight: 140},
   %{name: "Boba Fett",  type: :human,   rebel: false,   weight: 175},
 ]
+
 ```
 
-# Question 1
+## Question 1
 
 * Create a list of all the rebel scum
 
-# Question 2
+## Question 2
 
 * Fill the Millenium Falcon with all the rebels
 
-# Question 3
+## Question 3
 
 * How much do all the humans weigh?
 
-# Question 4 (BONUS)
+## Question 4 (BONUS)
 
 * If the Millenium Falcon can hold 1000 pounds, what is the optimal set of characters?
