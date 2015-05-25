@@ -1,5 +1,6 @@
 # Use this code and data to answer the questions.
 
+```elixir
 defmodule Millenium.Falcon do
   def rebel?(c = %{rebel: true}) do
     c.type != :droid
@@ -22,6 +23,7 @@ characters = [
   %{name: "Luke",       type: :human,   rebel: true,    weight: 140},
   %{name: "Boba Fett",  type: :human,   rebel: false,   weight: 175},
 ]
+```
 
 # Question 1
 

@@ -1,5 +1,6 @@
 # use the following data to answer the questions in this section
 
+```elixir
 characters = [
   %{name: "Han",        type: :human,   rebel: true,    weight: 185},
   %{name: "Jabba",      type: :hutt,    rebel: false,   weight: 2200},
@@ -8,6 +9,7 @@ characters = [
   %{name: "Luke",       type: :human,   rebel: true,    weight: 140},
   %{name: "Boba Fett",  type: :human,   rebel: false,   weight: 175},
 ]
+```
 
 # Note that there is more than one correct answer for all of these!
 
@@ -19,7 +21,7 @@ characters = [
 
 * In one line of code, set a variable called 'weight' to how much Han weighs
 
-## Advanced (we haven't covered all of this yet, you'll likely need to read documentation)
+> Advanced (we haven't covered all of this yet, you'll likely need to read documentation)
 
 # Question 3
 
