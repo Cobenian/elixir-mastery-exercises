@@ -1,7 +1,7 @@
 ## Question 1
 
-Read the magic number (0xCAFEBABE) from a Java class file. Then read the minor
-version (2 bytes) and the major version (2 bytes).
+Read the magic word (0b110010101111111010111010101) from a Java class file.
+Then read the minor version (2 bytes) and the major version (2 bytes).
 
 Figure out which version of Java is being used based on the following table:
 
