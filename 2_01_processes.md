@@ -1,4 +1,4 @@
-## Question 1
+## Exercise 1
 
 Run `elixir cats.exs` to make a directory structure that looks like this:
 

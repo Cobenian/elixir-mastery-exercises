@@ -1,4 +1,4 @@
-## Question 1
+## Exercise 1
 
 Read the magic word (0b110010101111111010111010101) from a Java class file.
 Then read the minor version (2 bytes) and the major version (2 bytes).
@@ -15,6 +15,6 @@ JDK 1.3 = 47 (0x2F hex),
 JDK 1.2 = 46 (0x2E hex),
 JDK 1.1 = 45 (0x2D hex).
 
-## Question 2 (BONUS)
+## Exercise 2 (BONUS)
 
 Read java/lib/java.ex and figure out what it does.

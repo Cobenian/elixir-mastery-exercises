@@ -14,20 +14,20 @@ characters = [
 
 > Note that there is more than one correct answer for all of these!
 
-## Question 1
+## Exercise 1
 
 * In one line of code, set a variable called wookie_name to the name of the wookie character
 
-## Question 2
+## Exercise 2
 
 * In one line of code, set a variable called 'weight' to how much Han weighs
 
 > Advanced (we haven't covered all of this yet, you'll likely need to read documentation)
 
-## Question 3
+## Exercise 3
 
 * In one line of code, create a list of the names of the humans
 
-## Question 4
+## Exercise 4
 
 * In one line of code, create a list of all the humans that weigh less than 180 lbs.

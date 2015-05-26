@@ -1,4 +1,4 @@
-## Question 1
+## Exercise 1
 
 Monitor the process you created in the previous exercise and restart it if it
 crashes.  It is ok to call the function that detects the crash and restarts the
