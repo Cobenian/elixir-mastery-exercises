@@ -3,18 +3,10 @@ defmodule Cats do
   @prefix "/tmp"
 
   def make do
-    prep |> cats |> make_cats
+    cats |> mk
   end
 
-  def prep do
-
-    [@prefix, "cats", "virginia"] |> Path.join |> File.mkdir_p!
-    [@prefix, "cats", "maryland"] |> Path.join |> File.mkdir_p!
-    [@prefix, "cats", "dc"]       |> Path.join |> File.mkdir_p!
-
-  end
-
-  def cats(_) do
+  def cats do
 
     [
       [state: "Virginia",
@@ -31,19 +23,24 @@ defmodule Cats do
     ]
   end
 
+  def mk_state(state) do
+    [@prefix, "cats", String.downcase(state)] |> Path.join |> File.mkdir_p!
+  end
+
   def mk_cat(state, cat = [name: name, age: _age]) do
     [@prefix, "cats", String.downcase(state), String.downcase(name) <> ".cat"]
     |> Path.join
     |> File.write!(Macro.to_string(cat) <> "\n")
   end
 
-  def make_cats([]) do
-
+  def mk([]) do
+    # all done
   end
 
-  def make_cats([[state: state, cats: cats] |t]) do
+  def mk([[state: state, cats: cats] | t]) do
+    state |> mk_state
     cats |> Enum.map(&(mk_cat(state, &1)))
-    make_cats(t)
+    mk(t)
   end
 
 end
