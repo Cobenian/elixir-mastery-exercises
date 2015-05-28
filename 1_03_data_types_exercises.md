@@ -9,6 +9,7 @@
 
 ## Map exercises
 * Create a map with at least three characters matched to a :rebel or :imperial
+* Add a weight to each character
 * Retrieve the tuple containing a rebel
 * Update the map with 'Jabba the Hutt' and :scum or :criminal
 
