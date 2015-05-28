@@ -3,7 +3,7 @@
 ## Day 1
 
 ### Star Wars
-* [Section 3 - Data Types](1_03_data_types.md)
+* [Section 3 - Data Types](1_03_data_types_exercises.md)
 * [Section 4 - Pattern Matching](1_04_pattern_matching.md)
 * [Section 5a - Conditionals](1_05a_conditionals.md)
 * [Section 6 - Pipe Operator](1_06_pipe_operator.md)
