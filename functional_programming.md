@@ -1,11 +1,11 @@
 # Exercise 1
 * Given the data below, write a function that pulls the _uniq_  first word
   items out of the fifth field. You should get back
-  `
+  ```
   ["Open", "Asset", "Core", "Xcode", "_launchservicesd"]
-  `
+  ```
 
-`
+```
 admin:*:231:-2:Open Directory Kerberos Admin Service:/var/empty:/usr/bin/false
 _krb_changepw:*:232:-2:Open Directory Kerberos Change Password Service:/var/empty:/usr/bin/false
 _krb_kerberos:*:233:-2:Open Directory Kerberos:/var/empty:/usr/bin/false
@@ -15,7 +15,8 @@ _coremediaiod:*:236:236:Core Media IO Daemon:/var/empty:/usr/bin/false
 _xcsbuildagent:*:237:237:Xcode Server Build Agent:/var/empty:/usr/bin/false
 _xcscredserver:*:238:238:Xcode Server Credential Server:/var/empty:/usr/bin/false
 _launchservicesd:*:239:239:_launchservicesd:/var/empty:/usr/bin/false
-`
+```
+
 [answer](https://github.com/MonkeyIsNull/fpexer)
 
 # Exercise 2
