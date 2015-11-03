@@ -1,7 +1,7 @@
 ## Reading Excercises
 * Spend some time in iex looking at the functions for
-  Map, List, Keyword. For example, type in Map and then
-  . and then hit tab. Read the doc for some eg: 'h List.delete'
+  Map, List, Keyword. For example, type in Map and then ```.```
+  and then hit tab. Read the doc for some eg: ```h List.delete```
 ## List Exercises
 * Create a list with six star wars characters
 * Get the third item out of the list
