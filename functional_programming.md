@@ -17,13 +17,13 @@ _xcscredserver:*:238:238:Xcode Server Credential Server:/var/empty:/usr/bin/fals
 _launchservicesd:*:239:239:_launchservicesd:/var/empty:/usr/bin/false
 ```
 
-[answer](https://github.com/MonkeyIsNull/fpexer)
+[answer](https://github.com/MonkeyIsNull/fpexer/blob/master/test/fpexer_test.exs)
 
 # Exercise 2
 
 * Given the following data, write a function called find_by_type.
   Use it to find all droids, then use it find all humans. Use recursion to do this.
-  [answer](https://github.com/MonkeyIsNull/fpexer)
+  [answer](https://github.com/MonkeyIsNull/fpexer/blob/master/lib/fpexer.ex)
 
 # Exercise 3 
 
