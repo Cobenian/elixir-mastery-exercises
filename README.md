@@ -1,5 +1,7 @@
 # elixir-mastery-questions
 
+Updated for November '15
+
 ## Day 1
 
 ### Star Wars
