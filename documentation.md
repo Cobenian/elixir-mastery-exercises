@@ -1,0 +1,7 @@
+## Exercise 1
+
+* Create a new mix project and add module documentation to it. Generate the html files.
+
+## Exercise 2
+
+* Add function documentation to the mix project and generate the updated html files
