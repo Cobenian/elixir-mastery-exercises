@@ -1,6 +1,6 @@
 # Task Exercise
 ## Exercise
-* Grab the lib [reddhl](https://github.com/MonkeyIsNull/reddhl) 
+* Grab the lib [reddhl](https://hex.pm/packages/reddhl) 
   Launch 5 different Tasks, await their output and dump it
 *  [Answer](https://gist.github.com/MonkeyIsNull/13aec9eac86489db15f2)
 
