@@ -12,9 +12,10 @@
   Hint2: map is your friend
 * [Answer](https://gist.github.com/MonkeyIsNull/3cb5afcb8cfe00c63f5c)
 
-## Exercise
+## Bonus Exercise
 * Using the same template for the progrgam above, grab the lib [reddhl](https://hex.pm/packages/reddhl) 
-  Launch 5 different Tasks, await their output and dump it
+  Launch 5 different Tasks, await their output and dump it. 
+  Hint: Not too unlike previous exercise
 *  [Answer](https://gist.github.com/MonkeyIsNull/13aec9eac86489db15f2)
 
 # Agent Exercise
