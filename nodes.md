@@ -3,9 +3,9 @@
 * Create a chat function that can send directly to a client.
   It doesn't go through the hub. The other client should be
   able to receive it and see the response. For example:
-  ```iex(r2d2@panda)2> Client.chat("ig88", "sucka!")```
+  ```iex(r2d2@panda)2> Client.chat("ig88", "imperial scum!")```
   and on ig88s side, it would display
-  ```[r2d2@panda] sucka!```
+  ```[r2d2@panda] imperial scum!!```
 
 * Instead of showing the pid number when a client connects
   have every connected client see the registered name of the client
