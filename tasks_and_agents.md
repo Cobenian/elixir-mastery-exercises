@@ -1,5 +1,10 @@
 # Task Exercise
 ## Exercise
+* Create your own sleep function that can sleep for n secs. Don't forget to wait longer than that.
+  Have it return it's own pid or :ok
+* [Answer](https://gist.github.com/MonkeyIsNull/7deb099da777178068e0)
+
+## Exercise
 * Create 5 files /tmp/t1 /tmp/t2 /tmp/t3 /tmp/t4 /tmp/5. Put something in each file
   Write a program that launches 5 different tasks, each one takes a function that reads
   one of the numbered files. You might need to use the format Task.async(mod,fun,args)
