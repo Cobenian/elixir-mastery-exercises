@@ -26,5 +26,6 @@
 * Create a function that removes a cat
 * [Answer](https://gist.github.com/MonkeyIsNull/d70bf3cc15cfea961e2a)
 
-
+## Exercise 
+* Read https://howistart.org/posts/elixir/1
  
