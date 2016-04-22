@@ -21,4 +21,4 @@ JDK 1.1 = 45 (0x2D hex).
 
 ## Exercise 2 (BONUS)
 
-Read [binaries_example/java/lib/java.ex](binaries_example/java/lib/java.ex) and figure out what it does.
+Read [binaries_example/lib/java.ex](binaries_example/lib/java.ex) and figure out what it does.
