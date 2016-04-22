@@ -40,4 +40,4 @@ characters = [
 
 ## Exercise 4 (BONUS)
 
-* If the Millenium Falcon can hold 1000 pounds, what is the optimal set of characters?
+* If the Millenium Falcon can hold 1000 pounds, what is the optimal set of characters that can fit on the ship without going over the weight limit?
