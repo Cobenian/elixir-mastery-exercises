@@ -3,6 +3,8 @@
 Read the magic word (0b110010101111111010111010101) from a Java class file.
 Then read the minor version (2 bytes) and the major version (2 bytes).
 
+You will find a class file in the [binaries_example](binaries_example) directory.
+
 Figure out which version of Java is being used based on the following table:
 
 ```text
@@ -19,4 +21,4 @@ JDK 1.1 = 45 (0x2D hex).
 
 ## Exercise 2 (BONUS)
 
-Read java/lib/java.ex and figure out what it does.
+Read [binaries_example/java/lib/java.ex](binaries_example/java/lib/java.ex) and figure out what it does.
