@@ -26,6 +26,9 @@
 * Create a function that removes a cat
 * [Answer](https://gist.github.com/MonkeyIsNull/d70bf3cc15cfea961e2a)
 
+## Bonus Exercise
+* Implement finding a cat by name
+* [Answer] (https://gist.github.com/MonkeyIsNull/afd0c270da25a31c822f65646cdfc1e3)
 ## Exercise 
 * Read https://howistart.org/posts/elixir/1
  
