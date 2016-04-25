@@ -10,6 +10,10 @@
 
 * Run the tests. What does the dot mean?
 
-## Exercise 4 (BONUS)
+## Exercise 4
+
+* Make your own Hello World mix task
+
+## Exercise 5 (BONUS)
 
 * Build an escript and run it
