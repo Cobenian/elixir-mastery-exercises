@@ -3,7 +3,7 @@
   with a "-NG" appended to it since it's the NextGeneration ;) --
   Ensure it takes only maps that contain the :droid atom which is true
 
-* Write another function with the (almost) same arguments that takes any name and returns it
+* Write another function (with the same name) with the (almost) same arguments that takes any name and returns it
   if the :droid value is false
 
 * [Answer](https://gist.github.com/MonkeyIsNull/02b43cd673a228d57fc0)
