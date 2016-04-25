@@ -14,7 +14,7 @@
 
 # Exercise 3
 * Write an function called greeter that returns a function that takes differing types and values and prints out
-  a different response to each. Try a map, a three elemnt tuple, an :atom and a string.
+  a different response to each. Try a map, a three element tuple, an :atom and a string.
   It should also take a fallthrough default value that returns :ok
 * [Answer](https://gist.github.com/MonkeyIsNull/37368f35d6cfa35d1919) 
 
