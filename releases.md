@@ -5,3 +5,5 @@
 ### Advanced
 
 * Upgrade your release to a new version without stopping the running process.
+
+[Answer](https://gist.github.com/brweber2/f49330dffb49476dd4bd30d253b86fce)
