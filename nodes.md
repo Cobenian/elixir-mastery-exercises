@@ -1,4 +1,8 @@
-# Exercise 1
+## Exercise 1
+
+* Clone the [Hub repo](https://github.com/MonkeyIsNull/hub/tree/master) and run the examples from the slide, ensure you understand how it works
+
+## Exercise 2
 
 * Create a chat function that can send directly to a client.
   It doesn't go through the hub. The other client should be
