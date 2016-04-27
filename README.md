@@ -1,32 +1,36 @@
 # elixir-mastery-questions
 
-Updated for November '15
+Updated for Spring 2016
 
 ## Day 1
 
-### Star Wars
-* [Section 3 - Data Types](data_types.md)
-* [Section 4 - Pattern Matching](pattern_matching.md)
-* [Section 5a - Conditionals](control_flow.md)
-* [Section 6 - Pipe Operator](pipe_operator.md)
+* [Data Types](data_types.md)
+* [Control Flow](control_flow.md)
+* [Functional Programming](functional_programming.md)
+* [Pattern Matching](pattern_matching.md)
+* [Modules and Functions](modules_and_functions.md)
+* [Pipe Operator](pipe_operator.md)
+* [Mix](mix.md)
+* [Testing](testing.md)
+* [Publishing](publishing.md)
+* [Documentaiton](documentation.md)
+* [Releases](releases)
 
-### General
-
-* [Section 7 - Mix](mix.md)
-* [Section 9 - Documentation](documentation.md)
 
 ## Day 2
 
-### DroidStore
+* [Binaries](binaries.md)
+* [Macros](macros.md)
+* [Processes](processes.md)
+* [Links and Monitors](links_and_monitors.md)
+* [Tasks and Agents](tasks_and_agents.md)
+* [Nodes](nodes.md)
+* [OTP](otp.md)
+* [Supervisors](supervision.md)
+* [OTP Applications](otp_app.md)
 
-* [Section 1 - Processes](processes.md)
-* [Section 2 - Links and Monitors](2_02_links_and_monitors.md)
 
-### Java!?!?
+## Day 3
 
-* [Section 5 - Binaries](binaries.md)
-
-### Movie Tickets
-
-* [Section 7 - Phoenix](2_07_phoenix.md)
-* [Section 8 - Channels](2_08_channels.md)
+* [Phoenix](phoenix.md)
+* [Channels](channels.md)
