@@ -25,6 +25,17 @@ _launchservicesd:*:239:239:_launchservicesd:/var/empty:/usr/bin/false
   Use it to find all droids, then use it find all humans. Use recursion to do this.
   [answer](https://github.com/MonkeyIsNull/fpexer/blob/master/lib/fpexer.ex)
 
+```
+characters = [
+  %{name: "Han",        type: :human,   rebel: true,    weight: 185},
+  %{name: "Jabba",      type: :hutt,    rebel: false,   weight: 2200},
+  %{name: "Chewie",     type: :wookie,  rebel: true,    weight: 350},
+  %{name: "r2d2",       type: :droid,   rebel: true,    weight: 250},
+  %{name: "Luke",       type: :human,   rebel: true,    weight: 140},
+  %{name: "Boba Fett",  type: :human,   rebel: false,   weight: 175},
+]
+```
+
 # Exercise 3 
 
 * Without looking at the slides code the implementation for map, reduce, filter
