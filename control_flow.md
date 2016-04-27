@@ -21,3 +21,5 @@
 * Add error handling to the function so it does not fail if an error occurs.
 * Write a function that always prints out "Star Wars is awesome" even if it raises an error.
 * Write a function that raises an error, handles it and logs the stacktrace in a friendly manner.
+
+[Answer](https://gist.github.com/brweber2/26c834effd8c3c17e19c2009381db514)
