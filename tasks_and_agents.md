@@ -28,7 +28,7 @@
 
 ## Bonus Exercise
 * Implement finding a cat by name
-* [Answer] (https://gist.github.com/MonkeyIsNull/afd0c270da25a31c822f65646cdfc1e3)
+* [Answer](https://gist.github.com/MonkeyIsNull/afd0c270da25a31c822f65646cdfc1e3)
 ## Exercise 
 * Read https://howistart.org/posts/elixir/1
  
