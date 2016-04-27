@@ -4,7 +4,7 @@
 
 ## Exercise 2
 
-* Create a chat function that can send directly to a client.
+* Modify the Hub project and create a chat function that can send directly to a client.
   It doesn't go through the hub. The other client should be
   able to receive it and see the response. For example:
   ```iex(r2d2@panda)2> Client.chat("ig88", "imperial scum!")```
