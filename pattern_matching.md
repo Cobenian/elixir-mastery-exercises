@@ -31,3 +31,5 @@ characters = [
 ## Exercise 4
 
 * In one line of code, create a list of all the humans that weigh less than 180 lbs.
+
+[Answer](https://gist.github.com/brweber2/340a2f53c00a7d38c527313c0642398a)
