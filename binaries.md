@@ -19,6 +19,8 @@ JDK 1.2 = 46 (0x2E hex),
 JDK 1.1 = 45 (0x2D hex).
 ```
 
+[Answer](https://gist.github.com/brweber2/14a3c847650f60fffa9a26784fa0a643)
+
 ## Exercise 2 (BONUS)
 
 Read [binaries_example/lib/java.ex](binaries_example/lib/java.ex) and figure out what it does.
