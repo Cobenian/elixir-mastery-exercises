@@ -6,3 +6,5 @@ process yourself.  Explore and try different things in iex.
 
 Send it some messages, make it crash and verify that it restarts and accepts
 messages again.
+
+[Answer](https://gist.github.com/brweber2/ac0a42d667210451b65231a151ee1ebc)
