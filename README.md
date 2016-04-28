@@ -14,7 +14,7 @@ Updated for Spring 2016
 * [Testing](testing.md)
 * [Publishing](publishing.md)
 * [Documentaiton](documentation.md)
-* [Releases](releases)
+* [Releases](releases.md)
 
 
 ## Day 2
