@@ -1,6 +1,6 @@
 # elixir-mastery-questions
 
-Updated for Spring 2016
+Updated for Fall 2016
 
 ## Day 1
 
