@@ -38,7 +38,7 @@ characters = [
 
 # Exercise 3 
 
-* Without looking at the slides code the implementation for map, reduce, filter
-  Wikipedia has implementations that are close. Reduce is also called fold.
+* Without looking at the slides, code the implementation for map, filter and reduce.
+  Wikipedia has implementations that are close so you can use those if you're stuck. Reduce is also called fold.
   Answers: slides 
 
