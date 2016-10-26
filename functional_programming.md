@@ -36,7 +36,7 @@ characters = [
 ]
 ```
 
-# Exercise 3 
+# Bonus Exercise 3 
 
 * Without looking at the slides, code the implementation for map, filter and reduce.
   Wikipedia has implementations that are close so you can use those if you're stuck. Reduce is also called fold.
