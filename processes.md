@@ -2,6 +2,7 @@
 
 Run `elixir cats.exs` to make a directory structure that looks like this:
 
+```
 cats/virginia/felix.cat
 cats/virginia/angel.cat
 cats/virginia/midnight.cat
@@ -10,6 +11,7 @@ cats/maryland/oreo.cat
 cats/dc/tiger.cat
 cats/dc/garfield.cat
 cats/dc/misty.cat
+```
 
 
 Start a process that looks for "cats" (Cats are files...) in a
