@@ -11,11 +11,6 @@
   Hint: recursion or map would be helpful
 * [Answer](https://gist.github.com/MonkeyIsNull/3cb5afcb8cfe00c63f5c)
 
-## Bonus Exercise (only AFTER you have done the Agent exercises)
-* Using the same template for the program above, grab the lib [reddhl](https://hex.pm/packages/reddhl) 
-  Launch 5 different Tasks, await their output and dump it. 
-  Hint: Not too unlike previous exercise
-*  [Answer](https://gist.github.com/MonkeyIsNull/13aec9eac86489db15f2)
 
 # Agent Exercise
 ## Exercises
@@ -28,6 +23,12 @@
 ## Bonus Exercise
 * Implement finding a cat by name
 * [Answer](https://gist.github.com/MonkeyIsNull/afd0c270da25a31c822f65646cdfc1e3)
+
+## Bonus Number 2 Exercise (only AFTER you have done the Agent exercises)
+* Using the same template for the Task program above, grab the lib [reddhl](https://hex.pm/packages/reddhl) 
+  Launch 5 different Tasks, await their output and dump it. 
+  Hint: Not too unlike previous exercise
+*  [Answer](https://gist.github.com/MonkeyIsNull/13aec9eac86489db15f2)
 
 ## Reference: Low Level Cat Store
 * [Meow](https://gist.github.com/MonkeyIsNull/a5b97b52117a97ca5742)
