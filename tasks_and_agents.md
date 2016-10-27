@@ -9,7 +9,6 @@
   Write a program that launches 5 different tasks, each one takes a function that reads
   one of the numbered files. You might need to use the format Task.async(mod,fun,args)
   Hint: recursion and map would be helpful
-  Hint2: map is your friend
 * [Answer](https://gist.github.com/MonkeyIsNull/3cb5afcb8cfe00c63f5c)
 
 ## Bonus Exercise (only AFTER you have done the Agent exercises)
