@@ -30,7 +30,7 @@
 * Implement finding a cat by name
 * [Answer](https://gist.github.com/MonkeyIsNull/afd0c270da25a31c822f65646cdfc1e3)
 
-## Low Level Cat Store
+## Reference: Low Level Cat Store
 * [Meow](https://gist.github.com/MonkeyIsNull/a5b97b52117a97ca5742)
 
 ## Homework Exercise 
